@@ -24,10 +24,19 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Unicode wierd quotation symbols](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) : UTF-8 and us-ascii have some differences such as curly and straight quotations, 
 ... and one ... dot symbol, grave accents ,etc which might or might not be required in your text file. This link should help you understand how they are different despite looking similar to the untrained eye.
 
-# WFST Theory
+# Theory
 
-- https://www.inf.ed.ac.uk/teaching/courses/asr/2021-22/asr09-wfst.pdf
-- 
+Some links related to theory
+WFST
+- [Holy Book of WFSTs](https://cs.nyu.edu/~mohri/pub/hbka.pdf)
+- [Edinburgh ASR WFST Lecture](https://www.inf.ed.ac.uk/teaching/courses/asr/2021-22/asr09-wfst.pdf)
+
+
+Maximum Likelihood Estimation 
+
+- http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html
+- [StatQuests Intro](https://youtu.be/XepXtl9YKwc)
+- [StatQuest MLE for Normal Dist](https://www.youtube.com/watch?v=Dn6b9fCIUpM)
 
 
 # Decoding 
