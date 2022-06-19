@@ -24,10 +24,20 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Unicode wierd quotation symbols](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) : UTF-8 and us-ascii have some differences such as curly and straight quotations, 
 ... and one ... dot symbol, grave accents ,etc which might or might not be required in your text file. This link should help you understand how they are different despite looking similar to the untrained eye.
 
+# Kaldi miscellaneous
+- [Eleanor Chodroff](https://www.eleanorchodroff.com/tutorial/kaldi/)
+- [Joshua Meyer's Kaldi Notes](http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html)
+- [Aditya's Notes](https://github.com/AdityaYadavalli1/Kaldi-on-ADA)
+- [Aditya's Kaldi Recipes](https://github.com/AdityaYadavalli1/Kaldi-Recipe)
+- [Awesome Kaldi](https://github.com/YoavRamon/awesome-kaldi)
+- [Kaldi Utilities & misc](https://github.com/stars/Agrover112/lists/speech)
+
+
 # Theory
 
 Some links related to theory
 WFST
+- [NTU Semiring and WFST Lectures](https://www.youtube.com/watch?v=1aEinrlyp8w&list=PLxbPHSSMPBeicXAHVfyFvGfCywRCq39Mp)
 - [Holy Book of WFSTs](https://cs.nyu.edu/~mohri/pub/hbka.pdf)
 - [Edinburgh ASR WFST Lecture](https://www.inf.ed.ac.uk/teaching/courses/asr/2021-22/asr09-wfst.pdf)
 
@@ -48,7 +58,7 @@ as dot product of Tensors.
 - http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/62/2012-10-25-Step_of_HCLG%28test_time%29.pdf
 
 
-# Kaldi Errors 
+# Common Kaldi Errors & Questions 
  
  A list of some great errors faced by Kaldi users, I bookmarked. 
  Note: You might need to join the Google Group for viewing them.
