@@ -17,6 +17,7 @@ These links contain lectures given by Dan Povey, in the form of Kaldi lectures.
 Text preprocessing is an important aspect in ASR when preparing transcripts from raw-data or cleaning transcripts for preparation of lexicon files, doing preprocessing in Linux
 can be helpful and prevent further errors downstream in the pipeline.
 
+- [Detaied explanation of prepare_dict.sh for Lexicon creation](https://medium.com/@agrover112/understanding-kaldi-part-1-c869980b1cbf)
 - http://jrmeyer.github.io/misc/2019/03/02/Linux-textProc-Notes.html
 - [Get first column](https://www.unix.com/shell-programming-and-scripting/95024-need-get-first-column-text-file.html) : This can be helpful while splitting lexicon files.
 - Fix space indentation and get the second column file : `cat file_lexicon.txt | tr "\t" " " | tr -s " " | cut -d" " -f1 | sort | uniq`
