@@ -76,6 +76,6 @@ as dot product of Tensors.
  - [Forced Alignment Decoding Failure](https://groups.google.com/g/kaldi-help/c/FdmCarQtIHU/m/o00Y0aZGAQAJ)
  - [More Decoding Error](https://groups.google.com/g/kaldi-help/c/cUTG5KYykF0/m/kqx_BwS8FgAJ)
  - [Commands  draw-tree, fstprint not working](https://groups.google.com/g/kaldi-help/c/8CZ4zWg2fwA/m/XffHPrMOAQAJ)
- - https://groups.google.com/g/kaldi-help/c/DyeRWcagRGI/m/A75IWW4gCgAJ
+ - [word level alignment from phone](https://groups.google.com/g/kaldi-help/c/DyeRWcagRGI/m/A75IWW4gCgAJ)
  
 
