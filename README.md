@@ -32,7 +32,7 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Aditya's Kaldi Recipes](https://github.com/AdityaYadavalli1/Kaldi-Recipe)
 - [Awesome Kaldi](https://github.com/YoavRamon/awesome-kaldi)
 - [Kaldi Utilities & misc](https://github.com/stars/Agrover112/lists/speech)
-
+- [ The Application of Hidden Markov Models in Speech Recognition by Gales & Young](https://mi.eng.cam.ac.uk/~mjfg/mjfg_NOW.pdf)
 
 # Theory
 
