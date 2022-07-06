@@ -25,6 +25,8 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Unicode wierd quotation symbols](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) : UTF-8 and us-ascii have some differences such as curly and straight quotations, 
 ... and one ... dot symbol, grave accents ,etc which might or might not be required in your text file. This link should help you understand how they are different despite looking similar to the untrained eye.
 
+- [Convert numbers in transcript to words](https://github.com/savoirfairelinux/num2words), also for [Indic languages](https://github.com/sutariyaraj/indic-num2words)
+
 # Kaldi miscellaneous
 - [Eleanor Chodroff](https://www.eleanorchodroff.com/tutorial/kaldi/)
 - [Joshua Meyer's Kaldi Notes](http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html)
