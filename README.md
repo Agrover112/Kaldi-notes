@@ -1,6 +1,7 @@
 # Kaldi Resources
 
-Kaldi toolkit has lot of resources and information spread out on the internet, despite the presence of many such similar respositories, many links are often outdated as of 2022. This repository will serve as an list for some great links I found online which can be helpful for learning Kaldi and it's internal workings. This should help in demystifiying the working of Kaldi.
+This repo contains some of the stuff I love to refer back to related to Kaldi. I add some important links, lecture that helps in using Kaldi. PDFs are also present in this repository, which are my notes.
+Kaldi toolkit has lot of resources and information spread out on the internet, despite the presence of many such similar respositories, many links are often outdated as of 2022. This repository will serve as an list for some great links I found online which can be helpful for learning Kaldi and it's internal workings. This should help in demystifiying the working of Kaldi. 
 
 **I won't accept Pull Requests for fixing Spelling Errors.
 I consider it the responsibility of other uses to raise meaningful Pull Requests to help with the cause of learning Kaldi**
@@ -63,11 +64,12 @@ as dot product of Tensors.
 - http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/62/2012-10-25-Step_of_HCLG%28test_time%29.pdf
 
 
-# Common Kaldi Errors & Questions 
+# Common Kaldi Errors & Questions
  
  A list of some great errors faced by Kaldi users, I bookmarked. 
  Note: You might need to join the Google Group for viewing them.
  
+ - [Why does Kaldi require mono channel audio for training] (https://groups.google.com/g/kaldi-help/c/92-jEzqyNb4)
  - [Kaldi architectures](https://groups.google.com/g/kaldi-help/c/bwm-EBLmxts)
  - [Which DNN to use](https://groups.google.com/g/kaldi-help/c/y6PsX2LN2e4) 
  - [Difference between lang_test_tgsmall and lang_test_tglarge](https://groups.google.com/g/kaldi-help/c/XcaCst1DK2E)
@@ -81,6 +83,8 @@ as dot product of Tensors.
  - [More Decoding Error](https://groups.google.com/g/kaldi-help/c/cUTG5KYykF0/m/kqx_BwS8FgAJ)
  - [Commands  draw-tree, fstprint not working](https://groups.google.com/g/kaldi-help/c/8CZ4zWg2fwA/m/XffHPrMOAQAJ)
  - [Get Word level alignment from phone alignments](https://groups.google.com/g/kaldi-help/c/ByasBvVbWR4)
+ - [Extract phones with timing from lattice file](https://groups.google.com/g/kaldi-help/c/iv7rGYpn_s0)
  - [Cholesky Decomposition Failed matrix not postiive definite](https://groups.google.com/g/kaldi-help/c/U6mSTQB3SkE)
+ - [UBM Init Error while training with SGMM2](https://groups.google.com/g/kaldi-help/c/NyK5yT4SjY4)
  
 
