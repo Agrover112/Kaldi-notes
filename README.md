@@ -1,4 +1,4 @@
-# Kaldi Resources
+# Kaldi Notes
 
 This repo contains some of the stuff I love to refer back to related to Kaldi. I add some important links, lecture that helps in using Kaldi. PDFs are also present in this repository, which are my notes.
 Kaldi toolkit has lot of resources and information spread out on the internet, despite the presence of many such similar respositories, many links are often outdated as of 2022. This repository will serve as an list for some great links I found online which can be helpful for learning Kaldi and it's internal workings. This should help in demystifiying the working of Kaldi. 
