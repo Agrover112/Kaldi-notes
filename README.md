@@ -59,6 +59,7 @@ The decoding process is important to understand , as it is responsible for the f
 as dot product of Tensors.
 
 - http://vpanayotov.blogspot.com/2012/06/kaldi-decoding-graph-construction.html
+- [Oxinabox's Kaldi Notes: Kaldi Decoding and Evaluation](https://www.oxinabox.net/Kaldi-Notes/tidigits/eval)
 - http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/62/2012-10-25-Step_of_HCLG%28test_time%29.pdf
 
 
@@ -79,6 +80,7 @@ as dot product of Tensors.
  - [Forced Alignment Decoding Failure](https://groups.google.com/g/kaldi-help/c/FdmCarQtIHU/m/o00Y0aZGAQAJ)
  - [More Decoding Error](https://groups.google.com/g/kaldi-help/c/cUTG5KYykF0/m/kqx_BwS8FgAJ)
  - [Commands  draw-tree, fstprint not working](https://groups.google.com/g/kaldi-help/c/8CZ4zWg2fwA/m/XffHPrMOAQAJ)
- - [word level alignment from phone](https://groups.google.com/g/kaldi-help/c/DyeRWcagRGI/m/A75IWW4gCgAJ)
+ - [Get Word level alignment from phone alignments](https://groups.google.com/g/kaldi-help/c/ByasBvVbWR4)
+ - [Cholesky Decomposition Failed matrix not postiive definite](https://groups.google.com/g/kaldi-help/c/U6mSTQB3SkE)
  
 
