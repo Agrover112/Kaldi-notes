@@ -37,6 +37,7 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Librispeeh Alignments](https://github.com/CorentinJ/librispeech-alignments)
 - [Kaldi Utilities & misc](https://github.com/stars/Agrover112/lists/speech)
 - [ The Application of Hidden Markov Models in Speech Recognition by Gales & Young](https://mi.eng.cam.ac.uk/~mjfg/mjfg_NOW.pdf)
+- [Kaldi Deployment](https://desh2608.github.io/2019-03-27-kaldi-tricks/#kaldi-deploy)
 
 # Theory
 
