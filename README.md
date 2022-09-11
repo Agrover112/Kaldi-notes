@@ -29,7 +29,7 @@ can be helpful and prevent further errors downstream in the pipeline.
 - [Convert numbers in transcript to words](https://github.com/savoirfairelinux/num2words), also for [Indic languages](https://github.com/sutariyaraj/indic-num2words)
 
 # Kaldi miscellaneous
-- [Eleanor Chodroff](https://www.eleanorchodroff.com/tutorial/kaldi/)
+- [Eleanor Chodroff Tutorials](https://www.eleanorchodroff.com/tutorial/kaldi/)
 - [Joshua Meyer's Kaldi Notes](http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html)
 - [Aditya's Notes](https://github.com/AdityaYadavalli1/Kaldi-on-ADA)
 - [Aditya's Kaldi Recipes](https://github.com/AdityaYadavalli1/Kaldi-Recipe)
