@@ -70,7 +70,7 @@ as dot product of Tensors.
  A list of some great errors faced by Kaldi users, I bookmarked. 
  Note: You might need to join the Google Group for viewing them.
  
- - [Why does Kaldi require mono channel audio for training] (https://groups.google.com/g/kaldi-help/c/92-jEzqyNb4)
+ - [Why does Kaldi require mono channel audio for training](https://groups.google.com/g/kaldi-help/c/92-jEzqyNb4)
  - [Kaldi architectures](https://groups.google.com/g/kaldi-help/c/bwm-EBLmxts)
  - [Which DNN to use](https://groups.google.com/g/kaldi-help/c/y6PsX2LN2e4) 
  - [Difference between lang_test_tgsmall and lang_test_tglarge](https://groups.google.com/g/kaldi-help/c/XcaCst1DK2E)
