@@ -54,6 +54,10 @@ Maximum Likelihood Estimation
 - [StatQuests Intro](https://youtu.be/XepXtl9YKwc)
 - [StatQuest MLE for Normal Dist](https://www.youtube.com/watch?v=Dn6b9fCIUpM)
 
+Signal Processing
+
+- [Introduction to Digital Signal Processing](https://www.nowpublishers.com/article/Details/SIG-001)
+
 
 # Decoding 
 
